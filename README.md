@@ -1,3 +1,4 @@
+
 # 🕓 Romentum (시간, 날씨, TodoList 앱)
 
 javascript를 강의로 배우면서 제일 처음으로 만든 프로젝트 입니다.
@@ -5,7 +6,11 @@ javascript를 강의로 배우면서 제일 처음으로 만든 프로젝트 입
 
 <br/>
 
+[Romentum 보러가기](https://raccooncode96.github.io/romemtum/)
+
 ## 화면
+
+![romentum](https://user-images.githubusercontent.com/76491635/132338885-7c651be2-f6b2-4c86-b4f5-1f7cb122ba4a.gif)
 
 <br/>
 
