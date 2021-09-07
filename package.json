@@ -1,0 +1,24 @@
+{
+	"name": "todolist_js",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "parcel index.html",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d dist"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"gh-pages": "^3.2.3"
+	},
+	"type": "module",
+	"homepage": "https://raccooncode96.github.io/romentum",
+	"devDependencies": {
+		"cssnano": "^5.0.8",
+		"postcss": "^8.3.6"
+	}
+}
